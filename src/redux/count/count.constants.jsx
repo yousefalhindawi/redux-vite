@@ -1,0 +1,4 @@
+const ADD_COUNT = "ADD_COUNT";
+const REMOVE_COUNT = "REMOVE_COUNT";
+
+export { ADD_COUNT, REMOVE_COUNT };
